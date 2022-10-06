@@ -6,6 +6,7 @@ import unicodedata
 import nl_core_news_lg as nl_nlp
 from Processor import KeywordProcessor
 
+#Comment created by Filatov Roman Alexandrovich, date: 06.10.2022
 
 class PrivacyFilter:
 
