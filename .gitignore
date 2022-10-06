@@ -4,9 +4,6 @@
 /cache
 /results.html
 
-# Created by https://www.toptal.com/developers/gitignore/api/python,windows,linux,pycharm+all,git,powershell
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,windows,linux,pycharm+all,git,powershell
-
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
